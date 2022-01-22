@@ -1,0 +1,11 @@
+.mainHeader {
+  height: 100vh;
+  min-height: 40em;
+  /* background-image: url("https://images.unsplash.com/photo-1471958680802-1345a694ba6d"); */
+  /* background-image: url("https://images.unsplash.com/photo-1537204696486-967f1b7198c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80"); */
+  background-image: url(assets/emmett-1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
